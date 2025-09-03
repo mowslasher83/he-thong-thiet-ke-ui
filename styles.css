@@ -1,6 +1,6 @@
 /* Basic styles for the UI component */
 .btn {
-  background-color: #45a049;
+  background-color: #4CAF50; /* Changed to a brighter green for better visibility */
   color: white;
   padding: 15px 20px;
   border: none;
