@@ -29,5 +29,5 @@
 .navbar li {
   float: left;
   padding: 18px 20px; /* Increased padding for better spacing */
-  color: white;
+  color: #f0f0f0; /* Changed color for better visibility */
 }
