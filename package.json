@@ -1,0 +1,12 @@
+{
+  "name": "he-thong-thiet-ke-ui",
+  "version": "1.0.0",
+  "description": "Hệ thống thiết kế UI cho các nhà phát triển và thiết kế tại Việt Nam.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
